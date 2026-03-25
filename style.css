@@ -63,7 +63,7 @@ button{
 
 button:hover{
     background: violet;
-    opacity: 0.8;
+    opacity: .8;
 }
 
 button:active{
